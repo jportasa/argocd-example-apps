@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/jportasa/argocd-example-apps",
-  "drySha": "da6f08f24bd85f3795a461833cd557c3347573be",
+  "drySha": "5acd743a3e01f5721b62ff94f6c0457f9f4fa1b6",
   "commands": [
     "helm template . --name-template development-helm-guestbook --include-crds"
   ]
