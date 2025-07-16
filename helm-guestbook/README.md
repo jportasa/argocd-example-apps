@@ -7,6 +7,6 @@ To hydrate the manifests in this repository, run the following commands:
 
 git clone https://github.com/jportasa/argocd-example-apps
 # cd into the cloned directory
-git checkout 87ce170a62ea0426d480214289c34bd2c1a20089
+git checkout 7b0f2eb3fde0ed7977024320f3328c48dce9f2e0
 helm template . --name-template development-helm-guestbook --include-crds
 ```
